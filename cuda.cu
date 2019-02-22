@@ -1,8 +1,8 @@
 /**
- *  @file   openmp.c
+ *  @file   cuda.cu
  *  @author Damian Smela <damian.a.smela@gmail.com>
  *  @date   10.02.2019
- *  @brief  OpenMP example - finds all the primes in the large list of positive 
+ *  @brief  CUDA example - finds all the primes in the large list of positive 
  *          integers.
  */
 
